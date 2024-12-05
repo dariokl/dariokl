@@ -1,11 +1,11 @@
 <h1 align='center'>
- 👋 Hello! I'm Dario.
+ :wave: Hello! I'm Dario.
 </h1>
 
 <div id='media-links' align='center'>
   <a href="https://www.linkedin.com/in/dario-klopic-8475021a9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width='100'/>
-  </a>  
+  </a>
 </div>
 
 <div align='center'>
@@ -15,38 +15,38 @@
 
 <br>
 
-<div align='center'>
-💻 I’m currently working as Full Stack Web Developer </span>
+<h4>About me</h1>
 
-</div>
-
-<div align='center'>
-🤣 I'm also trying to nail down some of my personal projects
-</div>
-
-<div align='center'>
-💬 Ask me about <strong>JavaScript, Next.js, Express.js</strong>
+<div>
+Senior Full Stack Web Developer passionate about building efficient and scalable software.
+I have hands-on experience with various JavaScript and Python frameworks and a proven track record of delivering enterprise web solutions. 
+My work has spanned strategic and competitive intelligence consulting as well as the 
+insurance industry, enabling businesses to achieve their goals through innovative technology.
 </div>
 
 <br>
 
-<div id='gif-section' align='center'> 
-<img src='/assets/terminal.gif' width='480' />
-</div>
-<br>
-
----
-
-<h3 align='center'> Langauges & Tools </h3>
-<div align='center'>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,graphql,postgresql,firebase&perline=4)](https://skillicons.dev)
+<div>
+:computer: I’m currently working as Senior Full Stack Web Developer
 
 </div>
 
-<div align='center'>
-<details>	
-  <summary><strong>Private GitHub Stats</strong> 📊</summary>
+<div>
+ :hammer: In my spare time i like to work on my personal projects 
+</div>
+
+<div >
+:speech_balloon: Ask me about <strong>JavaScript, React.js, Next.js, Express.js, Python, Flask</strong>
+</div>
+
+<h3>Langauges & Tools </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,react,next,vue,express,flask,graphql,mysql,postgres,firebase,git,jest,vscode&perline=16)](https://skillicons.dev)
+
+</div>
+<div>
+<details> 
+  <summary><strong>Private GitHub Stats</strong> :bar_chart:</summary>
   <br />
 
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=dariokl&show_icons=true&hide_border=true&theme=transparent'/>
@@ -54,5 +54,3 @@
 
 </details>
 </div>
-
----
