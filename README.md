@@ -13,8 +13,6 @@
 <img src='https://img.shields.io/github/watchers/dariokl/dariokl.svg'>
 </div>
 
-<br>
-
 <h4>About me</h1>
 
 <div>
