@@ -13,7 +13,7 @@
 <img src='https://img.shields.io/github/watchers/dariokl/dariokl.svg'>
 </div>
 
-<h4>About me</h1>
+<h3>About me</h1>
 
 <div>
 Senior Full Stack Web Developer passionate about building efficient and scalable software.
@@ -44,7 +44,7 @@ insurance industry, enabling businesses to achieve their goals through innovativ
 </div>
 <div>
 <details> 
-  <summary><strong>Private GitHub Stats</strong> :bar_chart:</summary>
+  <summary><strong>Git Hub Stats</strong></summary>
   <br />
 
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=dariokl&show_icons=true&hide_border=true&theme=transparent'/>
