@@ -36,13 +36,3 @@ insurance industry, enabling businesses to achieve their goals through innovativ
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,react,next,vue,express,flask,graphql,mysql,postgres,firebase,git,jest,vscode&perline=16)](https://skillicons.dev)
 
 </div>
-<div>
-<details> 
-  <summary><strong>Git Hub Stats</strong></summary>
-  <br />
-
-  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=dariokl&show_icons=true&hide_border=true&theme=transparent'/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariokl&show_icons=true&theme=transparent&hide_border=true&langs_count=4&hide=html,css" />
-
-</details>
-</div>
