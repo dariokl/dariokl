@@ -2,10 +2,6 @@
  :wave: Hello! I'm Dario.
 </h1>
 
-<div align='center'>
-<img src='https://komarev.com/ghpvc/?username=dariokl' />
-<img src='https://img.shields.io/github/watchers/dariokl/dariokl.svg'>
-</div>
 
 <h3>About me</h1>
 
